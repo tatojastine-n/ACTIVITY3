@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\CanYouAffordIt\bin\Debug\CanYouAffordIt.exe.config
+C:\Users\HP\source\repos\CanYouAffordIt\bin\Debug\CanYouAffordIt.exe
+C:\Users\HP\source\repos\CanYouAffordIt\bin\Debug\CanYouAffordIt.pdb
+C:\Users\HP\source\repos\CanYouAffordIt\obj\Debug\CanYouAffordIt.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CanYouAffordIt\obj\Debug\CanYouAffordIt.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CanYouAffordIt\obj\Debug\CanYouAffordIt.exe
+C:\Users\HP\source\repos\CanYouAffordIt\obj\Debug\CanYouAffordIt.pdb
